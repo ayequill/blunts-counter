@@ -13,24 +13,3 @@ function save() {
     countEl.textContent = 0
     count  = 0
 }
-
-
-// increment()
-// let lap1 = 34
-// let lap2 = 33
-// let lap3 = 36
-
-// let lapsCompleted = 0
-
-// function increase (){
-//     lapsCompleted = lapsCompleted +1
-//     console.log(lapsCompleted)
-
-//     lapsCompleted = lapsCompleted +1
-//     console.log(lapsCompleted)
-
-//     lapsCompleted = lapsCompleted +1
-//     console.log(lapsCompleted)
-
-// }
-// increase()
